@@ -1,0 +1,24 @@
+Score statistics:
+mean      1497.270166
+median       1.000000
+std       4930.692784
+Name: score, dtype: float64
+
+Unique authors: 768
+
+Total awards: 0.0
+
+Average awards per post: nan
+
+Total comments: 22898
+
+Average comments per post: 14.659411011523687
+
+Total subreddit subscribers: 0.0
+
+Average subreddit subscribers per post: nan
+
+Total crossposts: 28.0
+
+Average crossposts per post: 0.030871003307607496
+

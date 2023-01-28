@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "core-gearbox-375812",
+  "private_key_id": "faa4c37a689b35fad01c6c6cc0a8f642f6681de7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNcP6fi3W1ypYz\n2RyUHogB7dQdd0tiicAPbE4rykpnHmmBwbU8wck+CkGe/LanjTWqt9k9blRSkg/i\nunjqKOVOgWKOje6kP33a6UMzJ60hg9jPcxnOMI/TmKvBOmA830ffLm2XbEO1zjPB\nkjRYGYd4AlLCTUnk3ta4+CvTGlxFxDmE9j/Y/jBNPZ1QcFGDk3iHTFUX5PMQQ5M3\nOCnoe91Q1UmY8nb9ijPMwi3w4Z5eNmyHISoef27kyZmQypQGPaVypxtaP7a64r+V\nFu5PJZrMQ8+ZsPfnc7m6H8TtRx7sIxF16t6OXTcSHsZJPculghdptKLKuEFcbWT0\nKhVMpl+NAgMBAAECggEAEvKCauJSVpQntGioNzL2D6avHJHL8C6zLQwrzRccAJTj\nkMkpEKbwvmbBjmSEgtrfrofEb3yu8zfJL+IYOvecANinAQdiRJMeGOQD9ui7keIJ\ny3kBBS0hmErPptBEkvVzny5P6Wcqexu+8At7bDEPXbtp6/inDlNmnoQCiradXv1J\n3BFEOoT85OzV2I9aHpUp2VKzMSHeugqgY+k3NqPbulBuQNzBuwIhBpoAU32BTP4P\nDAUIcbmPn5zvBE2/5+y91D77ERiXRurJ6XO2qBV0vnj+DpycKqgIk+PKd1NRMQu4\ntHpvLGDGwRpuiRJJlavmVQl+O/EZzkfUrLA3Kn9TowKBgQD3W7wFKkoxRzPkKCiY\nunpUbM5vGebOx5/dK9k5NjaeK5T0ZXiD0IGJdAZ8K7cj1nDpRxcNgPn7OkRsLfYS\nstqN1qPlrnYoKPAxvBCrbKJyIvWuptENDEEARkkl7gyQYoex6dfNNGTK/jE+Bfcz\nGXEQht28GJJGrxpTnfFQ5iIhpwKBgQDUnl+GusPLK0l62tlH0DkNq05tbiXKf0LZ\nuvLshJWgmmZdIl+X5Wo/WuEfFgobnpbd2sn7H6QRRCk3lVNuXFfKN3FSJ7ITt8eL\n8b/nC2vmrl+YHq/fO0PvhUOcxLrsJC5toT7dIxCa29BOcOgtlpRVHL6lcaRNVffI\nvccPvCGTqwKBgQDLlmEmDyyJaoU3ICZprfHJUtSFdNgXEQ5uxww+nnRNsqkijfGm\n7BHxw+EiighuIq1EExLSNnmJYOe38gw6T6K6YxL6k6EEZM1s4dEGhp8dOdDkMsCU\n8KT/SNojsc39eFse/8xyRNFAkf6NgfN3x1TbuWT+z2p1auFMOQ7I+uDUuQKBgQCi\niKr3wH/6KQ4T54agGjHzHBhpGQG0qdI9xWb8nWIQktdbrPIsmMi+w8dCT0PM10/3\nKtCqswZl2Jg1kGZmABtwTy/GoOfFoQDfHyAXDCkg//29uP+zA4gsatBD4DQQXpxL\nXC9FNw/zgcPcov0qFGkyIzYuHRB/ug8gGss4YRW93wKBgQCEOLQpbNp+rljjW0rM\nP4RJyViON+a/CpjuQVxe6zbLF4v5zP/Fk9jXY7bT8kg58JvtxzGPUMpvyklCbopp\nfyGeE7f5XR7Ju9WgQlXR9CothZKIRTEYKBG4G3k+3laoXvK5hjLghTyIiSQbrwzi\nTK2cPv5w8+HxvhqZaxKz/blo+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "classicalartmemes@core-gearbox-375812.iam.gserviceaccount.com",
+  "client_id": "117481711793333084913",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/classicalartmemes%40core-gearbox-375812.iam.gserviceaccount.com"
+}

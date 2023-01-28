@@ -1,0 +1,2141 @@
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 54 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 6172
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 6225 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'cHRM' 41 32
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 85 453124
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 54 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 54 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 54 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'bKGD' 41 6
+DEBUG:PIL.PngImagePlugin:b'bKGD' 41 6 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3172
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 3225 138
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3375 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3375 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3415 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3173
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 3226 138
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3376 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3376 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3416 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3172
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 3225 138
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3375 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3375 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3415 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 66
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 169 74
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 255 52
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 319 52
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 383 101
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 496 193
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 701 96
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 809 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 854 64682
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 57 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 54 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 54 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 54 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 54 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 94 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 57 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 57 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 54 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 54 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'bKGD' 41 6
+DEBUG:PIL.PngImagePlugin:b'bKGD' 41 6 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3172
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 3225 138
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3375 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3375 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3415 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3173
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 3226 138
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3376 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3376 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3416 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3172
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 3225 138
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3375 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3375 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3415 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 66
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 169 74
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 255 52
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 319 52
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 383 101
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 496 193
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 701 96
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 809 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 854 64682
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 57 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 54 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 54 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 54 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 54 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 94 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 57 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 57 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:google.auth._default:Checking None for explicit credentials as part of auth process...
+DEBUG:google.auth._default:Checking Cloud SDK credentials as part of auth process...
+DEBUG:google.auth._default:Cloud SDK credentials not found on disk; not using them
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+WARNING:google.auth._default:Authentication failed using Compute Engine authentication due to unavailable metadata server.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: POST https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDTDAh3PtOwXgNmRAdgOZ5O9lseqsgAStE&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: POST https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDTDAh3PtOwXgNmRAdgOZ5O9lseqsgAStE&alt=json
+DEBUG:google.auth._default:Checking None for explicit credentials as part of auth process...
+DEBUG:google.auth._default:Checking Cloud SDK credentials as part of auth process...
+DEBUG:google.auth._default:Cloud SDK credentials not found on disk; not using them
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+WARNING:google.auth._default:Authentication failed using Compute Engine authentication due to unavailable metadata server.
+DEBUG:google.auth._default:Checking None for explicit credentials as part of auth process...
+DEBUG:google.auth._default:Checking Cloud SDK credentials as part of auth process...
+DEBUG:google.auth._default:Cloud SDK credentials not found on disk; not using them
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+WARNING:google.auth._default:Authentication failed using Compute Engine authentication due to unavailable metadata server.
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB7EE4280>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8526AF0>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+DEBUG:google.auth._default:Checking None for explicit credentials as part of auth process...
+DEBUG:google.auth._default:Checking Cloud SDK credentials as part of auth process...
+DEBUG:google.auth._default:Cloud SDK credentials not found on disk; not using them
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+DEBUG:google.auth.transport._http_client:Making request: GET http://169.254.169.254
+WARNING:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+WARNING:google.auth._default:Authentication failed using Compute Engine authentication due to unavailable metadata server.
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB894DBB0>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+ERROR:grpc._plugin_wrapping:AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x0000020DB8E1E370>" raised exception!
+Traceback (most recent call last):
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\grpc\_plugin_wrapping.py", line 95, in __call__
+    self._metadata_plugin(
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 101, in __call__
+    callback(self._get_authorization_headers(context), None)
+  File "c:\Users\Alexa\anaconda3\envs\Memes\lib\site-packages\google\auth\transport\grpc.py", line 87, in _get_authorization_headers
+    self._credentials.before_request(
+AttributeError: 'str' object has no attribute 'before_request'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 54 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 54 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 786823
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 54 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 54 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 41 6
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 59 428
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3144
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'ICC Profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'iDOT' 3197 28
+DEBUG:PIL.PngImagePlugin:b'iDOT' 3197 28 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 3237 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 65536
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 70 65445
