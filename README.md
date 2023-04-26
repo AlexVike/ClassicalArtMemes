@@ -20,7 +20,7 @@ In this folder the Jupyter Notebooks can be found, which were used for the downl
 
 This folder contains the initial presentation and the final presentation of the project.
 
-##
+## Research Paper
 
 This folder contains the research paper of this project.
 
