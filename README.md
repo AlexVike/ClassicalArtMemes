@@ -20,5 +20,10 @@ In this folder the Jupyter notebooks can be found, which were used for the downl
 
 This folder contains the initial presentation and the final presentation of the project.
 
+## all_csv_images
 
+Three CSV files can be found in this folder:
+- 'all_data_all_images_no_duplicates.csv' : In this CSV file the data set is cleaned, but OCR is not performed yet.
+-'ocr_google_vision.csv': In this CSV file OCR has been performed, so duplicates in the dataset have been noticed, which were not visible before.
+- 'filtered_file_ocr_no_duplicates.csv': All duplicates were removed. The analyses were performed with this data set.
 
