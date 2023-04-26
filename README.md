@@ -37,6 +37,10 @@ TwoCSV files can be found in this folder:
 - `filtered_file_no_images_no_duplicates.csv`: In this CSV file the raw data was filtered for the first time. This was used to download the images.
 - `trippinthroughtime_data_all_years.csv`: In this CSV file all raw data was saved.
 
+## images
+
+A txt file containing a Google Drive link to the images.
+
 ## statistics
 
 This folder contains images of the analyses that have been performed:
