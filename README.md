@@ -39,7 +39,7 @@ TwoCSV files can be found in this folder:
 
 ## images
 
-A txt file containing a Google Drive link to the images.
+Copy the images in this folder.
 
 ## statistics
 
