@@ -9,8 +9,8 @@ The following files can be found in the folders from 2015 to 2022:
 - an image of the visual barcode of the year
 - an image of the POS distribution
 - an image of the NE
-- an image of the most frequently used words and a corresponding word cloud
-- a wordcloud to the titles of the reddit posts
+- an image of the most frequently used words and a corresponding wordcloud
+- a wordcloud of the titles of the reddit posts
 
 ## Code
 
